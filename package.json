@@ -21,6 +21,8 @@
     "lodash": "^4.17.20"
   },
   "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-plugin-react": "^7.21.2",
     "prettier": "^2.1.2"
   }
 }
